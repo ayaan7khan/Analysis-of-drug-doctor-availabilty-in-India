@@ -12,7 +12,7 @@ I have successfully imported the dataset and established the initial geospatial 
 * **Visual:** Interactive map showing the density of Total Registered Doctors across Indian States.
 * **Goal:** To identify if states with fewer doctors have higher incidents of self-medication or specific medicine demand.
 
-![Dashboard Preview]([Upload your image here and paste the link])
+
 
 ### ⚙️ Technical Stack
 * **Tool:** Power BI
