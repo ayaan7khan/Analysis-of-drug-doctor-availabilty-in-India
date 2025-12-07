@@ -1,5 +1,5 @@
 
-# 🏥 Analysis of Medicine Demand&Supply and doctor availability in India
+# 🏥  Analysis of Medicine Demand&Supply and doctor availability in India
 
 ### 🚧 Project Status: Data Modeling Phase
 *Currently mapping healthcare density against medicine demand.*
